@@ -1,6 +1,6 @@
 {
     "name": "sjcam-video-converter",
-    "description": "Convert and ",
+    "description": "Convert your SJ Cam .mov videos to .avi in the same folder.",
     "author": {
         "name": "David García Carbayo",
         "email": "ddgcarbayo@gmail.com"
