@@ -1,0 +1,12 @@
+{
+    "name": "sjcam-video-converter",
+    "description": "Convert and ",
+    "author": {
+        "name": "David García Carbayo",
+        "email": "ddgcarbayo@gmail.com"
+    },
+    "dependencies": {
+        "fluent-ffmpeg": "latest",
+        "q" : "latest"
+    }
+}
